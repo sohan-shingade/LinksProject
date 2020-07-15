@@ -1,15 +1,19 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "http://sohan-shingade.github.io/LinksProject",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "predeploy": "expo build:web",
+    "deploy": "gh-pages -d web-build"
   },
   "dependencies": {
     "expo": "~38.0.8",
     "expo-status-bar": "^1.0.2",
+    "gh-pages": "^3.1.0",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
