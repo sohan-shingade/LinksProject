@@ -4,7 +4,7 @@ import * as Linking from "expo-linking";
 
 const links = [
   {
-    title: "Walmart Plus",
+    title: "Plus",
     url: "https://www.Walmart.com/plus",
     color: "#d88d8a",
   },
@@ -19,7 +19,7 @@ const links = [
     color: "gray",
   },
   {
-    title: "Walmart Plus Plans",
+    title: "Plus Plans",
     url: "https://www.Walmart.com/plus/faq/walmart-plus-membership-plans",
     color: "orange",
   },
