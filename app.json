@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "expo": {
     "name": "LinkingOnWeb",
     "slug": "LinkingOnWeb",
@@ -25,8 +24,3 @@
     }
   }
 }
-=======
-  "name": "LinkExample",
-  "displayName": "LinkExample"
-}
->>>>>>> 2dce8e210cbf420bae9a957f9a025a01cb1a034d
