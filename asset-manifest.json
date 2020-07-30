@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/LinksProject/static/js/app.95e8c856.chunk.js",
-    "app.js.map": "/LinksProject/static/js/app.95e8c856.chunk.js.map",
+    "app.js": "/LinksProject/static/js/app.4368ba24.chunk.js",
+    "app.js.map": "/LinksProject/static/js/app.4368ba24.chunk.js.map",
     "runtime~app.js": "/LinksProject/static/js/runtime~app.3546b8ae.js",
     "runtime~app.js.map": "/LinksProject/static/js/runtime~app.3546b8ae.js.map",
-    "static/js/2.99d944ca.chunk.js": "/LinksProject/static/js/2.99d944ca.chunk.js",
-    "static/js/2.99d944ca.chunk.js.map": "/LinksProject/static/js/2.99d944ca.chunk.js.map",
+    "static/js/2.b5ac5cca.chunk.js": "/LinksProject/static/js/2.b5ac5cca.chunk.js",
+    "static/js/2.b5ac5cca.chunk.js.map": "/LinksProject/static/js/2.b5ac5cca.chunk.js.map",
     "favicon-16.png": "/LinksProject/favicon-16.png",
     "favicon-32.png": "/LinksProject/favicon-32.png",
     "favicon.ico": "/LinksProject/favicon.ico",
     "index.html": "/LinksProject/index.html",
     "manifest.json": "/LinksProject/manifest.json",
     "serve.json": "/LinksProject/serve.json",
-    "static/js/2.99d944ca.chunk.js.LICENSE.txt": "/LinksProject/static/js/2.99d944ca.chunk.js.LICENSE.txt"
+    "static/js/2.b5ac5cca.chunk.js.LICENSE.txt": "/LinksProject/static/js/2.b5ac5cca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.3546b8ae.js",
-    "static/js/2.99d944ca.chunk.js",
-    "static/js/app.95e8c856.chunk.js"
+    "static/js/2.b5ac5cca.chunk.js",
+    "static/js/app.4368ba24.chunk.js"
   ]
 }
